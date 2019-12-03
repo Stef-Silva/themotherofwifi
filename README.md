@@ -12,4 +12,3 @@ npm install
 npm run serve
 ```
 
-### Stefani Silva
