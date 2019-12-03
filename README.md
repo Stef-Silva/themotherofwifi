@@ -1,6 +1,6 @@
 # THE MOTHER OF WIFI
 
-![Image of The Mother of Wifi App](https://drive.google.com/file/d/1q9TibNJo2QrKMgs7veClFyv-FIviyrfN/view?usp=sharing)
+![The Mother of Wifi App](/src/assets/the-mother-of-wifi.png)
 
 ## Project setup
 ```
