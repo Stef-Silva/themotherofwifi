@@ -4,7 +4,7 @@
 
 ### WHO IS HEDY LAMARR?
 
-![Meet Hedy Lamarr](/src/assets/meet-hedy-lamarr.png)
+![Meet Hedy Lamarr](/src/assets/meet-hedy-lamarr.jpg)
 
 Image by https://tekkieuni.com/blog/hedy-lamarr/
 
