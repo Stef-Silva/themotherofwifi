@@ -2,6 +2,12 @@
 
 ![The Mother of Wifi App](/src/assets/the-mother-of-wifi.png)
 
+### WHO IS HEDY LAMARR?
+
+![Meet Hedy Lamarr](/src/assets/meet-hedy-lamarr.png)
+
+Image by https://tekkieuni.com/blog/hedy-lamarr/
+
 ## Project setup
 ```
 npm install
@@ -11,4 +17,3 @@ npm install
 ```
 npm run serve
 ```
-
